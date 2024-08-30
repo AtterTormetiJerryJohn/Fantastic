@@ -1,0 +1,201 @@
+*{margin: 0;
+  padding: 0%;
+}
+
+
+h1{ 
+    padding: 10px;
+    border-left-style: dashed;
+    border-right-style: dashed;
+    border-top-style: double;
+    border-bottom-style: ridge;
+    border-left-color:green ;
+    border-right-color:green ;
+    border-width: 15px;
+    border-spacing: 5px;
+    background-color: aquamarine;
+    border-bottom-color: brown;
+    text-align: justify;
+    text-transform: uppercase;
+    text-decoration: wavy;
+    font-weight: 500;
+    font-size: x-large;
+
+}
+
+h3{
+   padding: 10px;
+   border-top-style: double;
+   border-bottom-style: ridge;
+   border-right-style: dashed;
+   border-left-style:dashed ;
+   background-color: aquamarine;
+   border-width: 15px;
+   text-align: justify;
+   text-decoration: none;
+   font-weight: 500;
+   font-size: x-large;
+
+}
+
+#JERRY{ 
+       padding: 10px;
+       border-top-style: ridge; 
+       border-bottom-style: outset;
+       border-right-style: ridge;
+       border-left-style: groove;
+       border-top-color: green;
+       border-bottom-color:rgba(201, 11, 34, 0.751);
+       border-right-color:yellow;
+       border-left-color:yellow;
+       border-width: 15px;
+       background:linear-gradient(red,violet,green);
+       font-style: normal;
+       font-weight: 300;
+       font-size: large;
+       
+
+}
+
+div{
+    
+    padding: 10px;
+    border-bottom-style:dashed ;
+    border-bottom-color: green;
+    border-top-style: ridge;
+    border-left-style: ridge;
+    border-left-style:dashed ;
+    border-top-left-radius: 10px;
+    /*border-width: 5px;*/
+    border-right-width: 5px;
+    
+    font-size: larger;
+    font-style: normal;
+    font-weight: 500;
+    text-align: justify;
+    padding-inline: 5px;
+    background-color: #7da722;
+
+}
+
+th{
+    padding: 10px;
+    text-align: justify;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 500;
+    font-size: larger;
+    font-style: bold;
+    background-color: rgb(96, 226, 96);
+}
+
+tr{ padding:10px ;
+    border-right-style:ridge ;
+    border-right-color:green ;
+    border-left-style: double;
+    border-left-color: yellowgreen;
+    border-width: 10px;
+    border-color: rgb(2, 36, 25);
+    font-size: larger;
+    font-weight: 500;
+    background:linear-gradient(rgb(70, 205, 70),red,violet);
+
+}
+
+#KOO{ 
+     padding: 10px;
+     font-size: larger;
+     font-weight: 500;
+     font-style: italic;
+     text-align: center;
+     text-decoration-line: underline;
+     text-decoration: double;
+     background: linear-gradient(rgb(161, 20, 41),indigo,ORANGE);
+}
+
+#JOHN{
+      padding: 10px;
+      border-bottom-style:ridge ;
+      border-top-style:dashed ;
+      background-color:rgb(52, 121, 52);
+      font-size: larger;
+      font-weight: 300;
+      
+
+
+      
+}
+
+#EXCEL{
+       padding: 10px;
+       background:linear-gradient(yellowgreen,rgb(207, 29, 201));
+}
+
+
+#TOM{
+     padding: 10px;
+     border-top-style: double;
+     border-bottom-style:double ;
+     border-right-style: ridge;
+     border-left-style:ridge ;
+     border-left-width: 5px;
+     border-left-color:rgb(4, 24, 4) ;
+     border-right-color: rgb(9, 149, 13);
+     border-top-color:rgb(4, 24, 4);
+     border-bottom-color: rgb(9, 149, 13);
+     /*background-color: rgb(15, 174, 116);*/
+     background: linear-gradient(rgb(171, 202, 34),rgb(78, 187, 78),rgb(238, 59, 134));
+     
+
+     border-width: 15px;
+     padding: auto;
+     text-align: justify;
+    
+}
+
+#CAB{
+    padding:5px ;
+    border-left-style: double;
+    border-top-style:ridge ;
+    border-left-color: green;
+    border-top-color: green;
+    border-width: 10px;
+    
+}
+
+h4{
+    padding: 10px;
+    font-size: larger;
+    font-weight: 500;
+    border-style:outset ;
+    border-color: aquamarine;
+    
+    background-color: rgb(9, 204, 41);
+}
+
+h5{
+    padding: 5px;
+    font-size: larger;
+    border-bottom-style: double;
+    border-top-style: double;
+    background-color: rgb(21, 160, 58);
+}
+
+#FAN{
+    
+    padding: 10px;
+    background:linear-gradient(rgb(157, 167, 17),rgb(39, 206, 232),green);
+    font-size: larger;
+    font-weight: 500;
+}
+
+#FA{
+    padding: 10px;
+    background-color: green;
+    font-size: x-large;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+
+
